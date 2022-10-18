@@ -3,7 +3,7 @@ import React from 'react';
 
 const seasonConfig = {
   summer: {
-    text: "It's quite sunny at this time of the year!",
+    text: "It's quite sunny!",
     iconName: 'sun'
   },
   winter: {
